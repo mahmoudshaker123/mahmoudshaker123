@@ -1,7 +1,3 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Shaker</h1>
-<h3 align="center">A passionate Software Engineer from Egypt</h3>
-
-- 📫 How to reach me **mahmoud.shaker123123@gmail.com**
 
 <h1 align="center">🚀 Hi, I'm Mahmoud Shaker</h1>
 <h3 align="center">A Passionate Backend Developer from Egypt</h3>
