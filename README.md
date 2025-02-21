@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-- 💻 Backend Developer with expertise in **Python & Django**
+- 💻 Backend Developer with expertise in **Python & Django & Django Rest Framework **
 - 🔍 Passionate about **building scalable web applications & APIs**
 - 🛠 Experienced in **PostgreSQL, SQLite, and SQL Server**
 - ☁ Enthusiastic about **Cloud Deployment, DevOps & Containerization**
