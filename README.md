@@ -46,34 +46,16 @@
 
 ---
 
-## 📂 Featured Projects
-
-- 🔗 [**E-commerce API & Template**](https://github.com/mahmoudshaker123/E-commerce_API_and_Template)  
-  RESTful API + frontend for a complete shopping experience (Django, DRF, Stripe, Celery, Docker)
-
-- 🔗 [**Task Management API**](https://github.com/mahmoudshaker123/Task-Management-API)  
-  Manage and track tasks with filters, reminders, and email notifications
-
-- 🔗 [**Ebda3 Design Full-Stack App**](https://ebda3design.fly.dev/)  
-  Business profile website for a creative agency (Deployed on Fly.io)
-
-- 🔗 [**Python Career Platform**](https://github.com/mahmoudshaker123/Python_Career)  
-  Job listing platform for Python developers with search functionality
-
-- 🔗 [**Social Network App**](https://github.com/mahmoudshaker123/SocialNetworkApp)  
-  A community platform with profile management, content sharing, and real-time engagement
-
----
-
 ## 🏆 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahmoudshaker123&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudshaker123&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mahmoudshaker123&theme=radical" alt="GitHub Streak" />
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahmoudshaker123&theme=radical" alt="Most Used Languages" />
 </p>
+
 
 ---
 
