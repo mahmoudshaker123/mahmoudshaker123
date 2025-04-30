@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Mahmoud Shaker</h1>
-<h3 align="center">Backend & Odoo Developer | Python Enthusiast | API Architect</h3>
+<h3 align="center">Backend & Odoo Developer | Python Enthusiast </h3>
 
 <p align="center">
   <a href="https://github.com/mahmoudshaker123"><img src="https://img.shields.io/github/followers/mahmoudshaker123?style=social" alt="GitHub Followers"></a>
