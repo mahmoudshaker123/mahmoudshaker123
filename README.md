@@ -18,17 +18,44 @@
 
 ## 🚀 Tech Toolbox  
 
-| **Category**        | **Technologies**                                                                 |
-|----------------------|----------------------------------------------------------------------------------|
-| **Languages**        | Python 🐍, JavaScript ⚡                                                        |
-| **Frameworks**       | Django, DRF, Odoo, FastAPI (basic), Flask (basic)                              |
-| **Databases**        | PostgreSQL 🐘, MySQL, SQLite, Redis 🧠                                         |
-| **Async & Queues**   | Celery ⏱️, RabbitMQ, Django Channels                                           |
-| **DevOps**           | Docker 🐳, GitHub Actions 🚀, Fly.io ☁️, Cloudinary                            |
-| **Frontend**         | HTML, CSS, Bootstrap                                                          |
-| **Tools**            | Git & GitHub, Postman, Web Scraping 🕷️                                       |
+### 🛠️ Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
----
+### 💻 Frameworks  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)  
+![Odoo](https://img.shields.io/badge/Odoo-714F79?style=for-the-badge&logo=odoo&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+
+### 🗄️ Databases  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
+
+### 🌐 Async & Queues  
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)  
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)  
+![Django Channels](https://img.shields.io/badge/Django%20Channels-092E20?style=for-the-badge&logo=django&logoColor=white)  
+
+### 🚀 DevOps  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
+![Fly.io](https://img.shields.io/badge/Fly.io-4D9DE0?style=for-the-badge&logo=flydotio&logoColor=white)  
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)  
+
+### 🎨 Frontend  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+
+### 🔧 Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-4B8BBE?style=for-the-badge&logo=python&logoColor=white)  
 
 ## ✨ Why Work with Me?  
 
