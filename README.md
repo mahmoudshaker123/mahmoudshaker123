@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Mahmoud Shaker</h1>
-<h3 align="center">💻 Backend Engineer | 🧠 Clean Code Advocate | 🧩 Odoo Developer</h3>
+<h3 align="center">💻 Backend Engineer | 🧩 Odoo Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F71D66&center=true&vCenter=true&width=450&lines=Building+Scalable+APIs+%26+ERP+Systems;Python+%7C+Django+%7C+Odoo+%7C+Docker;Let's+Build+Something+Great+Together!" />
